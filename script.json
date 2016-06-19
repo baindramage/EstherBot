@@ -1,13 +1,13 @@
 {
-    "BOT": "Howdy!\nI’m the personal bot of Don, climate engineer.\n![don](https://raw.githubusercontent.com/baindramage/EstherBot/master/img/Donb.jpg)\nWant to get in touch or learn about Don? %[I want to get in touch](postback:get_in_touch) %[What's a climate engineer?](postback:whats_a_climate_engineer) %[What's a bot?](postback:whats_a_bot)",
-    "HELLO": "Hey, I'm so glad you set DonBot up! Do you want to tell Don that you're talking to his bot? %[Tell him](postback:twitter)",
+    "HI": "Howdy!\nI’m the personal bot of Don, climate engineer.\n![don](https://raw.githubusercontent.com/baindramage/EstherBot/master/img/Donb.jpg)\nWant to get in touch or learn about Don? %[I want to get in touch](postback:get_in_touch) %[What's a climate engineer?](postback:whats_a_climate_engineer) %[What's a bot?](postback:whats_a_bot)",
+    "TWEET": "Hey, I'm so glad you set DonBot up! Do you want to tell Don that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Don_Bain so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Get help!",
     "WHAT'S A CLIMATE ENGINEER?": "A licensed engineer actively working on building a bright future in a new climate very different than the climate of our past.",
     "WHAT'S A BOT?": "I am a set of automated scripts that live on the internet, in a place some people call the cloud. %[Why did you make this?](postback:why_did_you_do_this) %[Say hi to SkyNet](postback:say_hi_to_skynet)",
-    "WHY DID YOU MAKE THIS?": "Don likes to learn new tech like JSON and Heroku. %[Why did you make this?](postback:why_did_you_do_this) %[Say hi to SkyNet](postback:say_hi_to_skynet)",
+    "WHY DID YOU MAKE THIS?": "Don likes to learn new tech like JSON and Heroku. %[Say hi to SkyNet](postback:say_hi_to_skynet)",
     "SAY HI TO SKYNET": "SkyNet already knew. %[Never trust your smartphone not to listen?](postback:never_trust_your_smartphone_not_to_listen) %[I want to get in touch](postbak:get_in_touch)",
-    "Never trust your smartphone not to listen": "I know! Right? %[I want to get in touch](postbak:get_in_touch)",
+    "NEVER TRUST YOUR SMARTPHONE NOT TO LISTEN": "I know! Right? %[I want to get in touch](postbak:get_in_touch)",
     "GET IN TOUCH": "Enter email or phone number",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, DonBot is back."

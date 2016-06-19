@@ -1,5 +1,5 @@
 {
-    "BOT": "Howdy!\nI’m the personal bot of Don, a ...\n![esther](https://raw.githubusercontent.com/baindramage/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Don? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Don](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Howdy!\nI’m the personal bot of Don, a ...\n![esther](https://github.com/baindramage/EstherBot/blob/master/img/Don%20b%20cropped%20very%20close%2020140512.jpg)\nWant to know more about bots or learn about Don? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Don](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set DonBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Get help!",

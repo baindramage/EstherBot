@@ -10,7 +10,7 @@
     "SAY HI TO SKYNET": "SkyNet already knew. %[Never trust your smartphone not to listen](postback:never_trust_your_smartphone_not_to_listen) %[I want to get in touch](postbak:get_in_touch)",
     "NEVER TRUST YOUR SMARTPHONE NOT TO LISTEN": "I know! Right? %[I want to get in touch](postbak:get_in_touch)",
     "GET IN TOUCH": "Would you like me to send him a text or an email? %[Send a text message (SMS)](postback:TBD) %[Send an email](postback:TBD) %[I use something else](postback:whats_a_bot)",
-    "TBT": "To be developed. Stay tuned."
+    "TBT": "To be developed. Stay tuned.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, DonBot is back."
 }

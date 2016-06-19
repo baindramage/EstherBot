@@ -1,5 +1,5 @@
 {
-    "HI": "Howdy!\nI’m the personal bot of Don, climate engineer.\n![don](https://raw.githubusercontent.com/baindramage/EstherBot/master/img/Donb.jpg)\nWant to get in touch or learn about Don? %[I want to get in touch](postback:get_in_touch) %[What's a climate engineer?](postback:whats_a_climate_engineer) %[What's a bot?](postback:whats_a_bot)",
+    "HI": "Howdy!\nI’m the personal bot of Don, climate engineer.\n![don](https://raw.githubusercontent.com/baindramage/EstherBot/master/img/Donb.jpg)\nWant to get in touch or learn about Don? %[Get in touch](postback:get_in_touch) %[What's a climate engineer?](postback:whats_a_climate_engineer) %[What's a bot?](postback:whats_a_bot)",
     "TWEET": "Hey, I'm so glad you set DonBot up! Do you want to tell Don that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Don_Bain so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Get help!",

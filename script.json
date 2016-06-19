@@ -3,7 +3,7 @@
     "HELLO": "Hey, I'm so glad you set DonBot up! Do you want to tell Don that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Don_Bain so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Get help!",
-    "GET IN TOUCH: "Enter email or phone number",
+    "GET IN TOUCH": "Enter email or phone number",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, DonBot is back."
 }
